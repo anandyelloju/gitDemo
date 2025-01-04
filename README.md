@@ -1,2 +1,2 @@
 # gitDemo
-Demo of Git Commands
+Demo of Git Commands.
